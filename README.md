@@ -2,7 +2,7 @@
 Dockerized tty.js Node module. Enables web based terminal.
 
 ## Usage
-Simple -**_WARNING: This isn't locked down in anyway. Use at your own risk_**
+Simple -**_WARNING: This is minimally, if at all, secured. Use at your own risk!_**
 ```bash
 docker run -d -p 8080:8080 --name tty a0js/rpi-tty
 ```
